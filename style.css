@@ -18,12 +18,20 @@ body {
     color: #FF0000;
 }
 
+#instagram {
+    color: #C13584;
+}
+
 #information {
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.projects {
+    text-decoration: underline;
 }
 
 .social_link:hover {
