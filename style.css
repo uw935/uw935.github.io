@@ -34,10 +34,6 @@ body {
     cursor: default;
 }
 
-#secret_one {
-    display: none;
-}
-
 .projects {
     text-decoration: underline;
 }
