@@ -56,10 +56,18 @@ body {
     margin-top: 20px;
 }
 
+#avatar {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: 100% 10%;
+    border-radius: 100px;
+    margin-bottom: 2vh;
+}
+
 .preview {
     font-size: 25px;
 }
-
 
 @media (max-width: 400px) {
     .preview {
