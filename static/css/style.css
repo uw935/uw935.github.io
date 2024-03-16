@@ -43,6 +43,8 @@ body {
 }
 
 .social_link {
+    display: flex;
+    align-items: center;
     margin-top: 10px;
     transition: all .3s ease;
     font-size: 20px;
@@ -63,6 +65,23 @@ body {
     object-position: 100% 10%;
     border-radius: 100px;
     margin-bottom: 2vh;
+}
+
+.company-logo-menu {
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.company-logo-bio {
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+}
+
+.company-logo {
+    margin-left: 10px;
 }
 
 .preview {
