@@ -22,6 +22,12 @@ body {
     content: "\00a0";
 }
 
+.blur {
+    user-select: none;
+    color: transparent;
+    text-shadow: 0 0 8px #000;
+}
+
 .button {
     cursor: pointer;
     transition: all .3s ease;
