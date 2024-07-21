@@ -79,6 +79,10 @@ body {
     color: #C13584;
 }
 
+#mail {
+    color: rgb(36, 36, 36);
+}
+
 #information {
     display: flex;
     flex-direction: column;
