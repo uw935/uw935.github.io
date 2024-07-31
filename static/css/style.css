@@ -71,6 +71,10 @@ body {
     color: #0A66C2;
 }
 
+#thoughts_block {
+    display: none;
+}
+
 #youtube {
     color: #FF0000;
 }
