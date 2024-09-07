@@ -29,6 +29,7 @@ body {
 }
 
 .button {
+    width: 200px;
     cursor: pointer;
     transition: all .3s ease;
     display: flex;
@@ -38,8 +39,6 @@ body {
     border: none;
     outline: none;
     box-sizing: border-box;
-    padding-left: 15px;
-    padding-right: 15px;
     height: 35px;
 }
 
