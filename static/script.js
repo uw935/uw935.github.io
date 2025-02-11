@@ -20,7 +20,7 @@ $(document).ready(function() {
         height: 640,
         onFlake: function () {
             $(this).html(
-                '<img width="25" height="25" src="./static/images/emojicons/confetti@2x.png" alt="🎊">'
+                '<img width="25" height="25" src="https://uw935.com/static/images/emojicons/confetti@2x.png" alt="🎊">'
             );
         },
         large: 30,
