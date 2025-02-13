@@ -58,12 +58,6 @@ body {
     opacity: 0.1;
 }
 
-.hbd:hover {
-    cursor: pointer;
-    font-weight: 700;
-    transition: all .3s ease;
-}
-
 ::selection {
     background-color: #838383;
     color: white;
