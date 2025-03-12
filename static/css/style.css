@@ -76,6 +76,10 @@ body {
     color: #229ED9;
 }
 
+#discord {
+    color: #5865F2;
+}
+
 #thoughts_block {
     display: none;
 }
@@ -139,13 +143,6 @@ body {
 .company-logo-menu {
     margin-right: 5px;
     width: 30px;
-    height: 30px;
-}
-
-.company-logo-bio {
-    width: 35px;
-    height: 35px;
-    border-radius: 50px;
 }
 
 .preview {
