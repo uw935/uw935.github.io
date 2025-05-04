@@ -22,12 +22,6 @@ body {
     content: "\00a0";
 }
 
-.blur {
-    user-select: none;
-    color: transparent;
-    text-shadow: 0 0 8px #000;
-}
-
 .button {
     width: 200px;
     cursor: pointer;
@@ -59,7 +53,7 @@ body {
 }
 
 ::selection {
-    background-color: #838383;
+    background-color: #39B513;
     color: white;
 }
 
