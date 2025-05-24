@@ -86,6 +86,10 @@ body {
     color: #C13584;
 }
 
+#lastfm {
+    color: #e63e12;
+}
+
 #mail {
     color: rgb(36, 36, 36);
 }
@@ -136,6 +140,7 @@ body {
 
 .company-logo-menu {
     margin-right: 5px;
+    border-radius: 7px;
     width: 30px;
 }
 
