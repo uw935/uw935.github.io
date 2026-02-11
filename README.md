@@ -1,4 +1,4 @@
 # About
-This is not the last version of the website. 
+This is not the latest version of the website. 
 
-Later I'll update it to the normal.
+Later I'll update it to the best one.
