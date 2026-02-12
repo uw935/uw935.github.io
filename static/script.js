@@ -14,17 +14,17 @@ fetch("https://api.npoint.io/662ddff4e44b520c878f", {}).then(
     }
 );
 
-$(document).ready(function() {
-    $("body").flurry({
-        character: ["~"],
-        height: 640,
-        onFlake: function () {
-            $(this).html(
-                '<img width="25" height="25" src="https://uw935.com/static/images/emojicons/confetti@2x.png" alt="🎉">'
-            );
-        },
-        large: 20,
-        frequency: 50,
-        speed: 3000
-    });
-});
+// $(document).ready(function() {
+//     $("body").flurry({
+//         character: ["~"],
+//         height: 640,
+//         onFlake: function () {
+//             $(this).html(
+//                 '<img width="25" height="25" src="https://uw935.com/static/images/emojicons/confetti@2x.png" alt="🎉">'
+//             );
+//         },
+//         large: 20,
+//         frequency: 50,
+//         speed: 3000
+//     });
+// });
